@@ -1,9 +1,9 @@
 {
-  "name": "sails-oracle-sp",
-  "version": "0.5.3",
+  "name": "sails-oracledb",
+  "version": "1.0",
   "description": "An Oracle stored procedure adapter for Sails.js",
   "license": "MIT",
-  "homepage": "https://github.com/Buto/sails-oracledb-sp#readme",
+  "homepage": "https://github.com/icarouscom/sails-oracledb#readme",
   "keywords": [
     "oracle-sp",
     "adapter",
@@ -32,15 +32,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:Buto/sails-oracledb-sp.git"
+    "url": "git@github.com:icarouscom/sails-oracledb.git"
   },
   "author": {
-    "name": "John Hendrix",
-    "email": "jhendrix58@gmail.com"
+    "name": "Icarous",
+    "email": "info@icarous.com"
   },
   "readmeFilename": "README.md",
   "dependencies": {
-    "oracledb": "^1.11.0"
+    "oracledb": "^3.0"
   },
   "devDependencies": {
     "waterline-adapter-tests": "~0.10.0",
@@ -55,17 +55,4 @@
     ],
     "waterlineVersion": "~0.10.0"
   },
-  "bugs": {
-    "url": "https://github.com/Buto/sails-oracledb-sp/issues"
-  },
-  "maintainers": [
-    {
-      "name": "buto",
-      "email": "jendrix58@gmail.com"
-    },
-    {
-      "name": "nethoncho",
-      "email": "nethoncho@gmail.com"
-    }
-  ]
 }
