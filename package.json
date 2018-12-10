@@ -4,28 +4,6 @@
   "description": "An Oracle stored procedure adapter for Sails.js",
   "license": "MIT",
   "homepage": "https://github.com/icarouscom/sails-oracledb#readme",
-  "keywords": [
-    "oracle-sp",
-    "adapter",
-    "sails",
-    "sails.js",
-    "sailsjs",
-    "oracledb",
-    "SQL",
-    "PL/SQL",
-    "OCI",
-    "client",
-    "plugin",
-    "library",
-    "driver",
-    "add-on",
-    "extension",
-    "binding",
-    "interface",
-    "module",
-    "Database",
-    "Oracle"
-  ],
   "main": "lib/adapter.js",
   "scripts": {
     "test": "node test/integration/runner -R spec -b"
